@@ -1,1 +1,8 @@
-
+At first i have struggled a bit with the problem of being new to the this type of technology.and later due to the instructions and the links and references
+it beacme a bit easy at start. But at the time of booting ubuntu i faced some issue with grub 
+Then i tried alot of how to resolve and then i checked some youtube tricks and used those commands
+Then my ubuntu has been started
+But later when i restart again the grub issue is still present So then i checked alot and tried reinstalling ubuntu twice then i learned the mistake what i have done 
+Is that the issue is due to the storage clash and also the quick startup option of windows was still on
+so then after my ubuntu has no issue
+hence i completed task-00
