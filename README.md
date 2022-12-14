@@ -1,6 +1,6 @@
 | tasks list    | description |  status   |
 | ---      | ---       |
-| Task-0 |  installing ubuntu   |    completed   |
+| Task-0 |  installing ubuntu  | |    completed   |
 | Task-1    |     starring amfoss repositories     |      completed      |
 | Task-2    |     terminal hunt     | completed |
 | task-3    |     programming   | only attempted 1 but not completed |
